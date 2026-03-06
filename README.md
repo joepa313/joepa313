@@ -1,16 +1,15 @@
-## Hi there 👋
+# Joseph Pallas
 
-<!--
-**joepa313/joepa313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate from SNHU interested in software engineering
+and cloud development.
 
-Here are some ideas to get you started:
+## Portfolio
+https://joepa313.github.io/ePortfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+Node.js • Express • MongoDB • Angular • AWS • Docker
+
+## Featured Projects
+- Travlr Getaways – Full-stack travel booking application
+- Cloud Native API – AWS Lambda microservices
+- SNHU Computer Science ePortfolio
